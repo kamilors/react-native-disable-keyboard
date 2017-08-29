@@ -4,6 +4,9 @@
 ## Getting started
 
 `$ yarn add https://github.com/kamilors/react-native-disable-keyboard.git`
+
+## Auto Install
+
 `$ react-native link react-native-disable-keyboard`
 
 
